@@ -14,3 +14,9 @@ init_module() is called when the module in loaded using insmod while cleanup_mod
 
 
 printk() is used to print event in a log
+
+
+After compiling the module has an extension .ko
+
+To get information about the kernel module:
+        sudo modinfo <module.ko>
