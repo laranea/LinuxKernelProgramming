@@ -37,4 +37,4 @@ Once the compilation is completed, load the module:
         
         rmmod <modulename>
         
-        cat /var/log/messages
+        cat /var/log/messages  (Might have to use grep)
