@@ -1,0 +1,1 @@
+cmd_/home/vduddu/Desktop/Kernel/Documentation/documentation.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/vduddu/Desktop/Kernel/Documentation/documentation.ko /home/vduddu/Desktop/Kernel/Documentation/documentation.o /home/vduddu/Desktop/Kernel/Documentation/documentation.mod.o

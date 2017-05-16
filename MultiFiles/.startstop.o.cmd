@@ -1,0 +1,1 @@
+cmd_/home/vduddu/Desktop/Kernel/MultiFiles/startstop.o := ld -m elf_x86_64   -r -o /home/vduddu/Desktop/Kernel/MultiFiles/startstop.o /home/vduddu/Desktop/Kernel/MultiFiles/start.o /home/vduddu/Desktop/Kernel/MultiFiles/stop.o 

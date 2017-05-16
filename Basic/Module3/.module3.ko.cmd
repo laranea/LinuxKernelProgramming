@@ -1,0 +1,1 @@
+cmd_/home/vduddu/Desktop/Kernel/Module3/module3.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/vduddu/Desktop/Kernel/Module3/module3.ko /home/vduddu/Desktop/Kernel/Module3/module3.o /home/vduddu/Desktop/Kernel/Module3/module3.mod.o
